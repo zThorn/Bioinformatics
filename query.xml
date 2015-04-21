@@ -1,0 +1,6 @@
+<!DOCTYPE Query>
+	<Query client="true" processor="TSV" limit="-1" header="1">
+		<Dataset name="hsapiens_gene_ensembl" config="gene_ensembl_config">
+			<Attribute name="validated"/>
+		</Dataset>
+	</Query>
