@@ -66,4 +66,4 @@ def queryBiomart(dataset,filter,cfg,attr):
 
 if __name__=="__main__":
 
-    app.run(debug=True)
+    app.run()
